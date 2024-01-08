@@ -1,4 +1,3 @@
-![image](https://github.com/Wesleyfesantos/wesleyfesantos/assets/63267128/c01938cf-0a0f-4a8c-976e-7397f7e65067)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BE81F7&height=120&section=header"/>
 &nbsp;&nbsp;&nbsp;
 
