@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0101df&height=120&section=header"/>
 &nbsp;&nbsp;&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0101df&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Wesley+Santos;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0101df&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Wesley;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 <p align="center">I like to solve great challenges using tech. ;) <br><br> </p>&nbsp;
 
